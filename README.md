@@ -1,3 +1,6 @@
+TwittMap-sentiment-thread
+=========================
+
 COMSE6998 CLOUD COMPUTING & BIG DATA - TwittMap(Assignment2)
 
 Team Member
