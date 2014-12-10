@@ -1,4 +1,4 @@
-TwittMap-sentiment-thread
+TwittMap-sentiment-worker
 =========================
 
 COMSE6998 CLOUD COMPUTING & BIG DATA - TwittMap(Assignment2)
